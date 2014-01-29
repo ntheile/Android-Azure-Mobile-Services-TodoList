@@ -21,6 +21,8 @@ Here is what the app looks  like:
 
 Todo
 =====
+* Refactor using android annotations http://androidannotations.org/ , looks to be the best framework for creating clean maintainable code for android.
 * Put the data access layer into a Datacontext package
+* Put the POJO models into a Models package
 * Separate the view model logic out
 * Research async callbacks
