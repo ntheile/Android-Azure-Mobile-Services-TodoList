@@ -70,7 +70,7 @@ public class ToDoActivity extends Activity {
 			// Mobile Service URL and key
 			mClient = new MobileServiceClient(
 					"https://wskauth.azure-mobile.net/",
-					"YOUR_KEY_HERE",
+					"YOUR_TOKEN",
 					this).withFilter(new ProgressFilter());
 
 			// Get the Mobile Service Table instance to use

@@ -9,19 +9,20 @@ Azure Mobile Services Backend
 =============================
 The backend is quite easy to set up and in the end looks like this:
 
-![Screenshot](/res/images/ams.PNG)
+![Screenshot](/assets/images/ams.PNG)
 
 
 Android App
 ============
 Here is what the app looks  like:
 
-![Screenshot](/res/images/app.PNG)
+![Screenshot](/assets/images/app.PNG)
 
 
 Todo
 =====
 * Refactor using android annotations http://androidannotations.org/ , looks to be the best framework for creating clean maintainable code for android.
+* Use http://androidkickstartr.com/ 
 * Put the data access layer into a Datacontext package
 * Put the POJO models into a Models package
 * Separate the view model logic out
